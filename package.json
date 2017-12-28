@@ -1,0 +1,31 @@
+{
+  "name": "serverless-python-setuppy",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=4.0"
+  },
+  "description": "Serverless Python Packaging Plugin",
+  "author": "Łukasz Żukowski",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lzukowski/serverless-python-setuppy"
+  },
+  "keywords": [
+    "serverless",
+    "serverless framework plugin",
+    "serverless applications",
+    "serverless plugins",
+    "aws lambda",
+    "amazon",
+    "amazon web services",
+    "python",
+    "docker-lambda",
+    "serverless.com"
+  ],
+  "files": [
+    "index.js",
+    "package.json"
+  ],
+  "main": "index.js"
+}
