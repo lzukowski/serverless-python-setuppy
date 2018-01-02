@@ -20,12 +20,20 @@
     "amazon",
     "amazon web services",
     "python",
-    "docker-lambda",
-    "serverless.com"
+    "serverless.com",
+    "pip",
+    "setup.py",
+    "setuptools"
   ],
   "files": [
     "index.js",
     "package.json"
   ],
-  "main": "index.js"
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.0.6",
+    "fs-extra": "^3.0.0",
+    "lodash": "^4.17.4",
+    "zip-local": "^0.3.4"
+  }
 }
